@@ -8,3 +8,7 @@ This is a mix of freeCodeCamp intro to Data Structure and a Coding Interview Boo
 - mkdir name_of_some_test_folder
 - touch index.js and also test.js with ots contents to be tested
 - jest name_of_some_test_folder/test.js then hit enter
+
+### Referencies:
+
+- https://github.com/StephenGrider/AlgoCasts
